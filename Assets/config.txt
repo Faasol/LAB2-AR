@@ -1,0 +1,10 @@
+# IdScene
+N 100
+minX -10
+maxX 10
+minY -10
+maxY 10
+minZ -10
+maxZ 10
+minV 0.1
+maxV 5
